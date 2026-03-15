@@ -287,11 +287,11 @@ fr:
       signed_in: ""
       signed_out: "Tu es maintenant déconnecté(e)."
       new:
-        sign_in: Inscription
+        sign_in: Connexion
         meta_description: Page de connexion pour Hitobito
       form:
         login_identity: Adresse e-mail principale
-        sign_in: Inscription
+        sign_in: Connexion
       oauth_info:
         sign_in: "Se connecter avec %{name}"
         info: "Veuillez vous connecter sur %{oauth_app}pour continuer."
@@ -553,7 +553,7 @@ fr:
         email_check:
           enter_email: Bitte gib deine E-Mailadresse ein, mit der du dich registrieren möchtest.
       index:
-        sign_in: Inscription
+        sign_in: Connexion
         login: Login
         no_login: Tu n'as pas encore d'identifiant?
       email_check:
